@@ -1,0 +1,17 @@
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\bin\Debug\net6.0\TelegramBot_Weather.exe
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\bin\Debug\net6.0\TelegramBot_Weather.deps.json
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\bin\Debug\net6.0\TelegramBot_Weather.runtimeconfig.json
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\bin\Debug\net6.0\TelegramBot_Weather.dll
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\bin\Debug\net6.0\TelegramBot_Weather.pdb
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.csproj.AssemblyReference.cache
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.GeneratedMSBuildEditorConfig.editorconfig
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.AssemblyInfoInputs.cache
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.AssemblyInfo.cs
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.csproj.CoreCompileInputs.cache
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.csproj.CopyComplete
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.dll
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\refint\TelegramBot_Weather.dll
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.pdb
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\TelegramBot_Weather.genruntimeconfig.cache
+D:\игры видео\коноплев\TelegramBot_Weather\TelegramBot_Weather\obj\Debug\net6.0\ref\TelegramBot_Weather.dll
